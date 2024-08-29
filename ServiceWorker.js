@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-BrutalBlocks_Unity-1.0";
 const contentToCache = [
-    "Build/8-28_24--3.loader.js",
-    "Build/8-28_24--3.framework.js",
-    "Build/8-28_24--3.data",
-    "Build/8-28_24--3.wasm",
+    "Build/8-28_24--4.loader.js",
+    "Build/8-28_24--4.framework.js",
+    "Build/8-28_24--4.data",
+    "Build/8-28_24--4.wasm",
     "TemplateData/style.css"
 
 ];
